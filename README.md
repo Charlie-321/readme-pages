@@ -1,1 +1,5 @@
-# readme-pages
+---
+title: Hello, Pandoc
+---
+
+# My Project
